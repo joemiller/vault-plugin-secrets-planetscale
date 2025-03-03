@@ -1,0 +1,5 @@
+vault.pid
+bin/vault-plugin-secrets-planetscale
+.envrc
+test.env
+cover.out
